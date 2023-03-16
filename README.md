@@ -1,4 +1,9 @@
-DEMO FOR TRASH DETECTION WITH YOLOV8 AND TACO
+<div align="center">
+     <p>Litter Detection Demo</p>
+     <a href="assets/litter-detection.gif">
+</div>
+
+
 
 This is a demo for detecting trash/litter objects with Ultralytics YOLOv8 and the Trash Annotations in Contect (TACO) dataset created by Pedro Procenca and Pedro Simoes. Included is a infer and train script for you to do similar experiments to what I did. There are also the results and weights of various training runs in runs/detect/train for you to experiment with or use as pretrained weights.
 
