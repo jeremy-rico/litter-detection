@@ -1,5 +1,5 @@
 <div align="center">
-     <p>Litter Detection Demo</p>
+     ##<p>Litter Detection Demo</p>
      <a href="assets/litter-detection.gif">
 </div>
 
